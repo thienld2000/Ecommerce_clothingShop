@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Thiện Lương",
+      "password": "123456",
+      "email": "lthien575@gmail.com",
+      "phone": "0964698674",
+      "country": "Viet Nam",
+      "address": "Toà a5, hoàng liệt hoàng mai hà nội",
+      "gender": "male"
+    },
+    {
+      "id": "user1",
+      "name": "Đức Anh",
+      "password": "123456",
+      "email": "lthien1123@gmail.com",
+      "phone": "0878764054",
+      "country": "Viet Nam",
+      "address": "Hà nội",
+      "gender": "female"
+    },
+    {
+      "id": "user2",
+      "name": "Thiện Lương",
+      "password": "123456",
+      "email": "lthien575@gmail.com",
+      "phone": "0964698674",
+      "country": "Viet Nam",
+      "address": "Toà a5, hoàng liệt hoàng mai hà nội",
+      "gender": "male"
+    }
+   
+  ],
+  "contacts": [
+    {
+      "name": "a",
+      "email": "lthien575@gmail.com",
+      "mesage": "",
+      "id": 1
+    },
+    {
+      "name": "adad",
+      "email": "lthien575@gmail.com",
+      "mesage": "áa",
+      "id": 2
+    }
+  ]
+}
